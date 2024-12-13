@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongobd": "^0.0.1-security.0",
+    "mongoose": "^8.8.4"
+  }
+}
