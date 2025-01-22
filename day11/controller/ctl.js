@@ -45,15 +45,15 @@ module.exports.Addadmin =async(req,res) => {
 }
 
 module.exports.Viewadmin =async(req,res) => {
-    // let data = await AdminSchema.find({})
-    // data && res.render("viewadmin",{data});
+    let data = await AdminSchema.find({})
+    data && res.render("viewadmin",{data});
 
-    if (req.cookies.adminData) {
-        let data = await AdminSchema.find({})
-        data && res.render("viewadmin",{data})
-       }else{
-        res.redirect("/");
-       }
+    // if (req.cookies.adminData) {
+    //     let data = await AdminSchema.find({})
+    //     data && res.render("viewadmin",{data})
+    //    }else{
+    //     res.redirect("/");
+    //    }
 }
 module.exports.AddAdminData = async(req,res)=>{
     req.body.image = req.file.path;
