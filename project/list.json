@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://www.booksetgo.com/cdn/shop/products/3.1_b13517f3-52af-462d-9484-cb5fc45527c6_2048x.jpg?v=1628605187"
+    },
+    {
+        "id":2,
+        "name":"love book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/valentines-greeting-card-with-hearts_1035-1500.jpg?ga=GA1.1.475990448.1726234302&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"comedy book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/flat-april-fools-day-vertical-flyer-template_23-2149326913.jpg?ga=GA1.1.475990448.1726234302&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"comedy book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/unpleased-young-superhero-guy-wearing-tie-holding-looking-folder-isolated-white_141793-56512.jpg?ga=GA1.1.475990448.1726234302&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"family book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/happy-family-reading-together-mother-father-son_3446-166.jpg?ga=GA1.1.475990448.1726234302&semt=ais_hybrid"
+    }
+]
